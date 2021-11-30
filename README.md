@@ -1,0 +1,3 @@
+- 👋 Hi, I’m <b>@THEDONKLER</b>
+- 👀 I’m interested in Python, HTML, C++ and interested to learn more :D. I also like learning <i>human</i> languages. I know English and Malayalam as my native languages, I know Hindi a little bit and I know french to a B1 level 
+- 🌱 I’m currently learning C++
